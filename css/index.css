@@ -3502,22 +3502,22 @@ span.categoryBar-list-count::after {
   right: -100%;
 }
 li.categoryBar-list-item:nth-child(1) {
-  background: url('https://cdn.jsdelivr.net/gh/flurrychan/cdn/emoji/2.png');
+  background: url('https://emotion.acs.pw/emotion/Arcaea/184064210.png');
 }
 li.categoryBar-list-item:nth-child(2) {
-  background: url('https://cdn.jsdelivr.net/gh/flurrychan/cdn/emoji/12.png');
+  background: url('https://emotion.acs.pw/emotion/Arcaea/184064215.png');
 }
 li.categoryBar-list-item:nth-child(3) {
-  background: url('https://cdn.jsdelivr.net/gh/flurrychan/cdn/emoji/22.png');
+  background: url('https://emotion.acs.pw/emotion/Arcaea/184064218.png');
 }
 li.categoryBar-list-item:nth-child(4) {
-  background: url('https://cdn.jsdelivr.net/gh/flurrychan/cdn/emoji/32.png');
+  background: url('https://emotion.acs.pw/emotion/Arcaea/184064220.png');
 }
 li.categoryBar-list-item:nth-child(5) {
-  background: url('https://cdn.jsdelivr.net/gh/flurrychan/cdn/emoji/18.png');
+  background: url('https://emotion.acs.pw/emotion/Arcaea/184064222.png');
 }
 li.categoryBar-list-item:nth-child(6) {
-  background: url('https://cdn.jsdelivr.net/gh/flurrychan/cdn/emoji/40.png');
+  background: url('https://emotion.acs.pw/emotion/Arcaea/184064228.png');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
   content: '记录一下php的用法' !important;
