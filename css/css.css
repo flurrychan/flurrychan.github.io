@@ -366,3 +366,9 @@ h {
 .flink-list > a .info {
 background-color: rgb(255 255 255 / 0%);
 }
+
+/*打赏*/
+.donate {
+    text-align: center;
+    background: rgb(255 114 66);
+}
