@@ -24,10 +24,7 @@ body {
 }
 
 
-/* 首页文章卡片 */
-#recent-posts > .recent-post-item{
-    background:rgba(255, 255, 255, 0.9);
-}
+
 /* 页脚透明 */
 #footer{
   background: transparent!important;
@@ -106,7 +103,8 @@ background-color: #a83871;
 #nav #site-name,
 #page-header #site-title,
 #page-header #site-subtitle,
-#post-info .post-title {
+#post-info .post-title,
+#footer-wrap a {
 padding-top: 3px;
 background-image: linear-gradient(
   to left,
