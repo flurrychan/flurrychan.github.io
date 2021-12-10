@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://killua.cf/comments/index.html</loc>
+    
+    <lastmod>2021-12-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://killua.cf/47.html</loc>
     
     <lastmod>2021-12-10</lastmod>
@@ -497,15 +506,6 @@
   </url>
   
   <url>
-    <loc>https://killua.cf/comments/index.html</loc>
-    
-    <lastmod>2021-11-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://killua.cf/music/index.html</loc>
     
     <lastmod>2021-11-30</lastmod>
@@ -688,14 +688,14 @@
   </url>
   
   <url>
-    <loc>https://killua.cf/tags/%E2%9C%8F%E6%96%87%E6%9C%AC%E4%BD%9C%E8%80%85/</loc>
+    <loc>https://killua.cf/tags/%F0%9F%96%BC%E5%9B%BE%E5%BA%8Aapi/</loc>
     <lastmod>2021-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://killua.cf/tags/%F0%9F%96%BC%E5%9B%BE%E5%BA%8Aapi/</loc>
+    <loc>https://killua.cf/tags/%E2%9C%8F%E6%96%87%E6%9C%AC%E4%BD%9C%E8%80%85/</loc>
     <lastmod>2021-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
