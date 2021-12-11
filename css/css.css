@@ -372,3 +372,33 @@ background-color: rgb(255 255 255 / 0%);
     text-align: center;
     background: rgb(255 114 66);
 }
+/*相册修复*/
+/*相册页面定位修复*/
+.justified-gallery > div > img,
+.justified-gallery > figure > img,
+.justified-gallery > a > a > img,
+.justified-gallery > div > a > img,
+.justified-gallery > figure > a > img,
+.justified-gallery > a > svg,
+.justified-gallery > div > svg,
+.justified-gallery > figure > svg,
+.justified-gallery > a > a > svg,
+.justified-gallery > div > a > svg,
+.justified-gallery > figure > a > svg{
+  position:static!important;
+}
+
+/*移动端优化：去除归档、标签、最新文章、公告、评论、只保留网站统计*/
+@media screen and (max-width: 900px) {
+.card-info,
+.card-announcement,
+.card-recent-post,
+#card-newest-comments,
+.card-categories,
+.card-tags,
+.card-archives,
+#aside-content .card-widget,
+.item-headline {
+  display: none;
+}
+}
