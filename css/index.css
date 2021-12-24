@@ -1361,7 +1361,7 @@ input::placeholder {
   z-index: -999;
   width: 100%;
   height: 100%;
-  background: url(https://cdn.jsdelivr.net/gh/flurrychan/cdn/img/beijing.jpg);
+  background: url(../img/beijing.jpeg);
   background-attachment: local;
   background-position: center;
   -webkit-background-size: cover;
@@ -3560,22 +3560,22 @@ span.categoryBar-list-count::after {
   right: -100%;
 }
 li.categoryBar-list-item:nth-child(1) {
-  background: url('https://emotion.acs.pw/emotion/Arcaea/184064210.png');
+  background: url('../img/emoji/m1.png');
 }
 li.categoryBar-list-item:nth-child(2) {
-  background: url('https://emotion.acs.pw/emotion/Arcaea/184064215.png');
+  background: url('../img/emoji/m2.png');
 }
 li.categoryBar-list-item:nth-child(3) {
-  background: url('https://emotion.acs.pw/emotion/Arcaea/184064218.png');
+  background: url('../img/emoji/m3.png');
 }
 li.categoryBar-list-item:nth-child(4) {
-  background: url('https://emotion.acs.pw/emotion/Arcaea/184064220.png');
+  background: url('../img/emoji/m4.png');
 }
 li.categoryBar-list-item:nth-child(5) {
-  background: url('https://emotion.acs.pw/emotion/Arcaea/184064222.png');
+  background: url('../img/emoji/m5.png');
 }
 li.categoryBar-list-item:nth-child(6) {
-  background: url('https://emotion.acs.pw/emotion/Arcaea/184064228.png');
+  background: url('../img/emoji/m6.png');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
   content: '记录一下php的用法' !important;
