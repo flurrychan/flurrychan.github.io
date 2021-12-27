@@ -3560,22 +3560,22 @@ span.categoryBar-list-count::after {
   right: -100%;
 }
 li.categoryBar-list-item:nth-child(1) {
-  background: url('../img/emoji/m1.png');
+  background: url('../img/emoji/13.png');
 }
 li.categoryBar-list-item:nth-child(2) {
-  background: url('../img/emoji/m2.png');
+  background: url('../img/emoji/01.png');
 }
 li.categoryBar-list-item:nth-child(3) {
-  background: url('../img/emoji/m3.png');
+  background: url('../img/emoji/05.png');
 }
 li.categoryBar-list-item:nth-child(4) {
-  background: url('../img/emoji/m4.png');
+  background: url('../img/emoji/09.png');
 }
 li.categoryBar-list-item:nth-child(5) {
-  background: url('../img/emoji/m5.png');
+  background: url('../img/emoji/18.png');
 }
 li.categoryBar-list-item:nth-child(6) {
-  background: url('../img/emoji/m6.png');
+  background: url('../img/emoji/22.png');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
   content: '记录一下php的用法' !important;
