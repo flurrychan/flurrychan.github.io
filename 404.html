@@ -56,7 +56,7 @@
   isHome: false,
   isHighlightShrink: true,
   isToc: false,
-  postUpdate: '2021-12-28 02:01:20'
+  postUpdate: '2021-12-28 14:50:39'
 }</script><noscript><style type="text/css">
   #nav {
     opacity: 1
@@ -201,7 +201,7 @@
   const getComment = () => {
     const loadWaline = () => {
       Waline.Widget.RecentComments({
-        serverURL: 'https://waline-7l26fv3nq-flurrychan.vercel.app/',
+        serverURL: 'https://waline-7l26fv3nq-flurrychan.vercel.app',
         count: 6
       }).then(res => {
         const walineArray = res.comments.map(e => {
