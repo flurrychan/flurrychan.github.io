@@ -20,6 +20,24 @@
   </url>
   
   <url>
+    <loc>https://hexo.cf/mz/index.html</loc>
+    
+    <lastmod>2021-12-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/privacy-policy/index.html</loc>
+    
+    <lastmod>2021-12-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hexo.cf/tags/index.html</loc>
     
     <lastmod>2021-12-30</lastmod>
@@ -39,6 +57,33 @@
   
   <url>
     <loc>https://hexo.cf/gallery/wallpaper/index.html</loc>
+    
+    <lastmod>2021-12-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/18.html</loc>
+    
+    <lastmod>2021-12-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/34.html</loc>
+    
+    <lastmod>2021-12-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/32.html</loc>
     
     <lastmod>2021-12-30</lastmod>
     
@@ -543,33 +588,6 @@
   
   <url>
     <loc>https://hexo.cf/19.html</loc>
-    
-    <lastmod>2021-12-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/18.html</loc>
-    
-    <lastmod>2021-12-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/34.html</loc>
-    
-    <lastmod>2021-12-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/32.html</loc>
     
     <lastmod>2021-12-30</lastmod>
     

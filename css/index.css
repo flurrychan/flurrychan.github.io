@@ -1418,7 +1418,6 @@ hr:before {
   transition: all 1s ease-in-out;
 }
 .table-wrap {
-  overflow-x: scroll;
   margin: 0 0 1rem;
 }
 table {

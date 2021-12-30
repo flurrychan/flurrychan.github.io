@@ -103,7 +103,8 @@ background-color: #a83871;
 #page-header #site-title,
 #page-header #site-subtitle,
 #post-info .post-title,
-#footer-wrap a {
+#footer-wrap a,
+h1, h2, h3, h4, h5, h6  {
 padding-top: 3px;
 background-image: linear-gradient(
   to left,
