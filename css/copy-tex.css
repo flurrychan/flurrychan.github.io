@@ -1,4 +1,4 @@
-/* Force selection of entire .katex/.katex-display blocks, so that we can
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script>/* Force selection of entire .katex/.katex-display blocks, so that we can
  * copy/paste the entire source code.  If you omit this CSS, partial
  * selections of a formula will work, but will copy the ugly HTML
  * representation instead of the LaTeX source code.  (Full selections will

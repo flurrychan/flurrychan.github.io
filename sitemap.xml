@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hexo.cf/privacy-policy/index.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/tags/index.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hexo.cf/link/index.html</loc>
     
     <lastmod>2022-01-26</lastmod>
@@ -29,24 +47,6 @@
   </url>
   
   <url>
-    <loc>https://hexo.cf/privacy-policy/index.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/tags/index.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hexo.cf/gallery/index.html</loc>
     
     <lastmod>2022-01-26</lastmod>
@@ -57,96 +57,6 @@
   
   <url>
     <loc>https://hexo.cf/gallery/wallpaper/index.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/30.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/13.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/12.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/8.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/11.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/31.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/1.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/52.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/51.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/5.html</loc>
     
     <lastmod>2022-01-26</lastmod>
     
@@ -588,6 +498,96 @@
   
   <url>
     <loc>https://hexo.cf/9.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/30.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/13.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/12.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/8.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/11.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/31.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/1.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/52.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/51.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/5.html</loc>
     
     <lastmod>2022-01-26</lastmod>
     
