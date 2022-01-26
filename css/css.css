@@ -98,6 +98,7 @@ background-color: #a83871;
 }
 
 /*彩虹文字*/
+#recent-posts > .recent-post-item >.recent-post-info > .article-title,
 #post .post-copyright .post-copyright-info a,
 #nav #site-name,
 #page-header #site-title,
