@@ -65,24 +65,6 @@
   </url>
   
   <url>
-    <loc>https://hexo.cf/52.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/9.html</loc>
-    
-    <lastmod>2022-01-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hexo.cf/30.html</loc>
     
     <lastmod>2022-01-26</lastmod>
@@ -138,6 +120,15 @@
   
   <url>
     <loc>https://hexo.cf/1.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/52.html</loc>
     
     <lastmod>2022-01-26</lastmod>
     
@@ -596,6 +587,15 @@
   </url>
   
   <url>
+    <loc>https://hexo.cf/9.html</loc>
+    
+    <lastmod>2022-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://hexo.cf/46.html</loc>
     
     <lastmod>2022-01-26</lastmod>
@@ -952,14 +952,14 @@
   </url>
   
   <url>
-    <loc>https://hexo.cf/categories/%F0%9F%9A%AC%E5%85%88%E4%BF%9D%E7%95%99/</loc>
+    <loc>https://hexo.cf/categories/%F0%9F%93%96wordpress/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://hexo.cf/categories/%F0%9F%93%96wordpress/</loc>
+    <loc>https://hexo.cf/categories/%F0%9F%9A%AC%E5%85%88%E4%BF%9D%E7%95%99/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
