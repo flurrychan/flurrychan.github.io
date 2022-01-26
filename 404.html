@@ -56,7 +56,7 @@
   isHome: false,
   isHighlightShrink: true,
   isToc: false,
-  postUpdate: '2022-01-26 21:18:33'
+  postUpdate: '2022-01-26 21:23:50'
 }</script><noscript><style type="text/css">
   #nav {
     opacity: 1
@@ -127,12 +127,8 @@
       }
       const t = saveToLocal.get('theme')
     
-          const now = new Date()
-          const hour = now.getHours()
-          const isNight = hour <= 6 || hour >= 18
-          if (t === undefined) isNight ? activateDarkMode() : activateLightMode()
+          if (t === 'dark') activateDarkMode()
           else if (t === 'light') activateLightMode()
-          else activateDarkMode()
         
       const asideStatus = saveToLocal.get('aside-status')
       if (asideStatus !== undefined) {
