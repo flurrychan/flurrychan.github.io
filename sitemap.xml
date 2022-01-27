@@ -578,7 +578,7 @@
   </url>
   
   <url>
-    <loc>https://hexo.cf/20.html</loc>
+    <loc>https://hexo.cf/21.html</loc>
     
     <lastmod>2022-01-27</lastmod>
     
@@ -587,7 +587,7 @@
   </url>
   
   <url>
-    <loc>https://hexo.cf/21.html</loc>
+    <loc>https://hexo.cf/20.html</loc>
     
     <lastmod>2022-01-27</lastmod>
     
@@ -719,6 +719,13 @@
   </url>
   
   <url>
+    <loc>https://hexo.cf/tags/%F0%9F%A7%A9%E7%BC%A9%E7%95%A5%E5%9B%BE/</loc>
+    <lastmod>2022-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://hexo.cf/tags/%F0%9F%96%BC%E5%9B%BE%E5%BA%8Aapi/</loc>
     <lastmod>2022-01-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -734,13 +741,6 @@
   
   <url>
     <loc>https://hexo.cf/tags/%E2%9D%A4%E7%82%B9%E5%87%BB%E6%95%88%E6%9E%9C/</loc>
-    <lastmod>2022-01-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://hexo.cf/tags/%F0%9F%A7%A9%E7%BC%A9%E7%95%A5%E5%9B%BE/</loc>
     <lastmod>2022-01-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
