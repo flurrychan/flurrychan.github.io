@@ -65,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://hexo.cf/donate/index.html</loc>
-    
-    <lastmod>2022-02-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://hexo.cf/50.html</loc>
     
     <lastmod>2022-02-02</lastmod>
@@ -624,6 +615,15 @@
   
   <url>
     <loc>https://hexo.cf/comments/index.html</loc>
+    
+    <lastmod>2022-02-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hexo.cf/donate/index.html</loc>
     
     <lastmod>2022-02-02</lastmod>
     
