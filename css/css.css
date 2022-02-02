@@ -438,3 +438,12 @@ background: url(../img/yshouji.jpeg);
            background-size: cover;
            background-repeat: no-repeat;
 } 
+[data-theme='dark'] #web_bg
+{
+            background-attachment: local;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
