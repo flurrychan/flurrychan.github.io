@@ -438,7 +438,4 @@ background: url(../img/yshouji.jpeg);
            background-size: cover;
            background-repeat: no-repeat;
 } 
-/*评论换行*/
-.vcontent {
-    white-space: pre-wrap;
-}
+
