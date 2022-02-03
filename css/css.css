@@ -152,9 +152,9 @@ color: #ff69b4;
 color: orange;
 }
 /*链接颜色*/ 
-a {
-    color: #ff69c3;
- }
+#footer-wrap a,#footer-wrap  {
+    color: #10d3ff;
+}
 h {
     color: #ff8c00;
  }
