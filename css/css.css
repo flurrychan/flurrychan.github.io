@@ -438,4 +438,7 @@ background: url(../img/yshouji.jpeg);
            background-size: cover;
            background-repeat: no-repeat;
 } 
-
+/*评论突出*/
+.v[data-class=v] a {
+  max-width:100%
+    } 
