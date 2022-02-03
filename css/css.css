@@ -442,3 +442,8 @@ background: url(../img/yshouji.jpeg);
 .v[data-class=v] a {
   max-width:100%
     } 
+/*则边小图标*/
+#rightside > div > button,
+#rightside > div > a {
+  background-color: #ff8c00;
+}
