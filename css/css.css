@@ -468,3 +468,18 @@ ul.menus_item_child {
     box-shadow: 0 5px 6px -5px rgba(133,133,133,.6);
 }
 
+/* 导航栏居中 */
+#navFn{
+flex: 1;
+text-align: right;
+}
+#nav
+  #search-button{
+    display: inline;
+    padding: 0 0 0 0.3rem ;
+    position: relative;
+    padding-bottom: 0.3rem;
+    text-shadow: 0.05rem 0.05rem 0.1rem rgb(0 0 0 / 30%);
+    cursor: pointer;
+}
+
