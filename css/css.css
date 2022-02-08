@@ -405,7 +405,7 @@ background-color: rgb(255 255 255 / 0%);
 
 /*半透明化*/
 :root {
---global-font-size: 16px;
+--global-font-size: 15px;
 --card-bg: #fffffff0;
 }
 [data-theme='dark'] {
@@ -539,7 +539,6 @@ display:none;/*隐藏文章详情*/
     -webkit-line-clamp: 1;/*控制标题的行数*/
     margin-top: 0.3rem; /*控制标题的上间距*/
     margin-bottom: 0.3rem;/*控制标题的下间距*/
-    color: var(--text-highlight-color);
     font-size: 1.2em; /*控制标题的字体大小*/
     line-height: 1.4;/*控制标题的行高*/
 
