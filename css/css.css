@@ -406,7 +406,7 @@ background-color: rgb(255 255 255 / 0%);
 /*半透明化*/
 :root {
 --global-font-size: 16px;
---card-bg: #ffffffd4;
+--card-bg: #fffffff0;
 }
 [data-theme='dark'] {
 --card-bg: #00000099;
