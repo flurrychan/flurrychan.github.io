@@ -121,7 +121,7 @@ background-image: linear-gradient(
 background-size: 110vw;
 -webkit-background-clip: text;
 background-clip: text;
-color: transparent;
+color: transparent!important;
 -webkit-animation: rainbowan 60s linear infinite;
 animation: rainbowan 60s linear infinite;
 }
